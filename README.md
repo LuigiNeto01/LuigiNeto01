@@ -1,4 +1,4 @@
-## Opa, meu nome é LuigiNeto, tenho 16 anos, e sou um iniciante na programação!
+## Hi, my name is Luigi Neto! i'm begginer codding but i make what i can :P
 <div align="center">
   <a href="https://github.com/LuigiNeto01">
 
