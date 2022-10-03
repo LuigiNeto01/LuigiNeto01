@@ -1,4 +1,4 @@
-## Hi, my name is Luigi Neto! i'm begginer codding but i make what i can :P
+## Hi, my name is Luigi Neto! i'm begginer codder, but i make what i can :P
 <div align="center">
   <a href="https://github.com/LuigiNeto01">
 
