@@ -1,54 +1,51 @@
-# 👋 Hello there, I'm Luigi Neto  
-
-💻 **Senior Full Stack & RPA Developer** | 🚀 **Software Engineer** | 🧠 **Data Science**
-
----
-
-## 🔥 About Me
-- 💼 Currently leading the **development area at Crowe Macro (Covenant)**.  
-- 🛠️ Specialized in **RPA**, **APIs**, **automation** and **data engineering**.  
-- 🌎 Passionate about **building scalable solutions** that make people's work easier.  
-- 📚 Always learning and sharing knowledge – from backend to frontend, from databases to AI.  
+<h1 align="center">👋 Olá, eu sou o Luigi Neto!</h1>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=6C63FF&center=true&vCenter=true&width=435&lines=Desenvolvedor+Backend;Entusiasta+de+IA+%26+Machine+Learning;Sempre+aprendendo+algo+novo!"/>
+</p>
 
 ---
 
-## 🚀 Tech Stack
+### 🚀 Sobre mim
 
-<div align="center" style="margin-top: 20px;">
-  <!-- Core -->
-  <img alt="Python" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="50" height="50" style="margin: 10px;">
-  <img alt="JavaScript" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" width="50" height="50" style="margin: 10px;">
-  <img alt="Node.js" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="50" height="50" style="margin: 10px;">
-  <img alt="React" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="50" height="50" style="margin: 10px;">
-  <img alt="C#" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" width="50" height="50" style="margin: 10px;">
-  <img alt="Java" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="50" height="50" style="margin: 10px;">
-  
-  <!-- DB -->
-  <img alt="MySQL" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="50" height="50" style="margin: 10px;">
-  <img alt="SQL Server" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" width="50" height="50" style="margin: 10px;">
-  <img alt="Oracle" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" width="50" height="50" style="margin: 10px;">
-  
-  <!-- Tools -->
-  <img alt="Docker" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" width="50" height="50" style="margin: 10px;">
-  <img alt="Kubernetes" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-plain.svg" width="50" height="50" style="margin: 10px;">
-  <img alt="Git" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="50" height="50" style="margin: 10px;">
-</div>
+- 🔭 Trabalhando em projetos de **automação com IA**
+- 🌱 Estudando **Machine Learning**, **FastAPI** e **arquitetura de microsserviços**
+- 💡 Apaixonado por resolver problemas com tecnologia
+- 📚 Estudante de **Análise e Desenvolvimento de Sistemas**
 
 ---
 
-## 📊 GitHub Stats
+### 🛠️ Tecnologias & Ferramentas
 
-<div align="center">
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,js,java,cs,fastapi,react,docker,postgres,rabbitmq,git,github,vscode" />
+</p>
+
+---
+
+### 📊 GitHub Stats
+
+<p align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=LuigiNeto01&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuigiNeto01&layout=compact&langs_count=7&theme=tokyonight"/>
-</div>
+</p>
 
 ---
 
-## 🌐 Connect with me
-- 💼 [LinkedIn](https://www.linkedin.com/in/luiginetoo)  
-- 🐙 [GitHub](https://github.com/LuigiNeto01)
+### 🏆 Projetos em Destaque
+
+| Projeto | Descrição | Tech |
+|---|---|---|
+| [AutoFeedr](https://github.com/LuigiNeto01/AutoFeedr) | Automação de posts no LinkedIn com IA | JS, Python, Docker |
+| [AI Scope Doc Generator](https://github.com/LuigiNeto01/AI_scope-doc-generator) | Geração de documentos de escopo com IA | Python |
+| [FastAPI + RabbitMQ](https://github.com/LuigiNeto01/FastAPI-RabbitMQ) | Template de microsserviços | Python, FastAPI |
+| [Commit Creator](https://github.com/LuigiNeto01/Commit_creator) | Commits automáticos com Gemini AI | Python |
+| [Watcher Bot](https://github.com/LuigiNeto01/Watcher_bot) | Bot Discord de monitoramento | Python |
 
 ---
 
-✨ *"Code is not just lines, it’s how we bend reality into logic."*
+### 📫 Contato
+
+<p align="center">
+  <a href="https://github.com/LuigiNeto01"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/></a>
+  <a href="mailto:95541218+LuigiNeto01@users.noreply.github.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+</p>
