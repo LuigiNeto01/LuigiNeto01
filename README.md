@@ -8,7 +8,7 @@
 
 ```
 ╔══════════════════════════════════════════════════════════════════╗
-║  Building systems that think, scale and automate — from Brazil  ║
+║   Building systems that think, scale and automate — from Brazil  ║
 ╚══════════════════════════════════════════════════════════════════╝
 ```
 
